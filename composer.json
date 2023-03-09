@@ -40,9 +40,11 @@
     },
     "require-dev": {
         "nguyenanhung/vn-telco-phonenumber": "^3.0 || ^2.0 || ^1.0",
+        "nguyenanhung/mailer-sdk": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/basic-firewall": "^2.0 || ^1.0",
-        "symfony/polyfill-mbstring": ">=1.0",
-        "tramtro/make-some-noise": ">=1.0"
+        "nguyenanhung/my-crawler": "^1.0",
+        "tramtro/make-some-noise": ">=1.0",
+        "symfony/polyfill-mbstring": ">=1.0"
     },
     "autoload": {
         "psr-4": {
