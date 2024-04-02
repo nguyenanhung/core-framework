@@ -1,54 +1,54 @@
 {
-    "type": "library",
-    "name": "nguyenanhung/framework",
-    "description": "Platform: Core Framework by Hung Nguyen",
-    "keywords": [
-        "framework",
-        "module",
-        "components",
-        "helper",
-        "library",
-        "php"
-    ],
-    "homepage": "https://github.com/nguyenanhung/core-framework",
-    "license": "MIT",
-    "minimum-stability": "stable",
-    "authors": [
-        {
-            "name": "Nguyen An Hung",
-            "email": "dev@nguyenanhung.com",
-            "homepage": "https://nguyenanhung.com",
-            "role": "Developer"
-        }
-    ],
-    "require": {
-        "php": "^5.6 || ^7.0 || ^8.0",
-        "ext-pdo": "*",
-        "ext-curl": "*",
-        "ext-json": "*",
-        "ext-mbstring": "*",
-        "nguyenanhung/my-debug": "^4.0 || ^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/my-cache": "^4.0 || ^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/database": "^4.0 || ^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/security": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/requests": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/monitor": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/image": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/helpers": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/seo": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/validation": "^1.0"
-    },
-    "require-dev": {
-        "nguyenanhung/vn-telco-phonenumber": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/mailer-sdk": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/basic-firewall": "^2.0 || ^1.0",
-        "nguyenanhung/my-crawler": "^1.0",
-        "tramtro/make-some-noise": ">=1.0",
-        "symfony/polyfill-mbstring": ">=1.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "nguyenanhung\\Platforms\\CoreFramework\\": "src/"
-        }
-    }
+	"type": "library",
+	"name": "nguyenanhung/framework",
+	"description": "Platform: Core Framework by Hung Nguyen",
+	"keywords": [
+		"framework",
+		"module",
+		"components",
+		"helper",
+		"library",
+		"php"
+	],
+	"homepage": "https://github.com/nguyenanhung/core-framework",
+	"license": "MIT",
+	"minimum-stability": "stable",
+	"authors": [
+		{
+			"name": "Nguyen An Hung",
+			"email": "dev@nguyenanhung.com",
+			"homepage": "https://nguyenanhung.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": "^5.6 || ^7.0 || ^8.0",
+		"ext-pdo": "*",
+		"ext-curl": "*",
+		"ext-json": "*",
+		"ext-mbstring": "*",
+		"nguyenanhung/my-debug": "^4.0 || ^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/my-cache": "^4.0 || ^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/database": "^4.0 || ^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/security": "^4.0 || ^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/requests": "^4.0 || ^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/helpers": "^4.0 || ^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/monitor": "^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/image": "^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/seo": "^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/validation": "^1.0"
+	},
+	"require-dev": {
+		"nguyenanhung/vn-telco-phonenumber": "^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/mailer-sdk": "^3.0 || ^2.0 || ^1.0",
+		"nguyenanhung/basic-firewall": "^2.0 || ^1.0",
+		"nguyenanhung/my-crawler": "^1.0",
+		"tramtro/make-some-noise": ">=1.0",
+		"symfony/polyfill-mbstring": ">=1.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"nguyenanhung\\Platforms\\CoreFramework\\": "src/"
+		}
+	}
 }
