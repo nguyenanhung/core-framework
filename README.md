@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/framework/v)](https://packagist.org/packages/nguyenanhung/framework) [![Total Downloads](http://poser.pugx.org/nguyenanhung/framework/downloads)](https://packagist.org/packages/nguyenanhung/framework) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/framework/v/unstable)](https://packagist.org/packages/nguyenanhung/framework) [![License](http://poser.pugx.org/nguyenanhung/framework/license)](https://packagist.org/packages/nguyenanhung/framework) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/framework/require/php)](https://packagist.org/packages/nguyenanhung/framework)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/framework.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/framework)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/framework.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/framework)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/framework.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/framework)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/framework.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/framework)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/framework.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/framework)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/framework/php)](https://packagist.org/packages/nguyenanhung/framework)
 
 # Core Framework
 
